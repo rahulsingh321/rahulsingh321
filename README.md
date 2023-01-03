@@ -36,7 +36,7 @@ I'm a self-taught passionate full stack developer, having more than 8 year of ex
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/rahulsingh321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh321&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rahul's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh321&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/rahulsingh321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh321&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Rahul's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh321&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
