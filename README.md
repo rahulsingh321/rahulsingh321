@@ -43,8 +43,8 @@ I'm a self-taught passionate software engineer, with more than 8 year of experie
 <a href="https://github.com/rahulsingh321/thinkific">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsingh321&repo=thinkific&theme=buefy" />
 </a>
-<a href="#">
-  <img align="center" src="#" />
+<a href="https://github.com/rahulsingh321/spree_events_tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsingh321&repo=spree_events_tracker&theme=buefy" />
 </a>
 
 <br />
