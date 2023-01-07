@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <p align='center'>Lead Engineer - Ruby on Rails | Database Architect | eCommerce | Open source</p>
 <br />
 
-I'm a self-taught passionate full stack developer, having more than 8 year of experience in Ruby on Rails development, Database Architecture and Customize Ecommerce Applications.
+I'm a self-taught passionate software engineer, with more than 8 year of experience in Ruby on Rails development.
 
 **About me**
 
-- 💼 Working As Lead Engineer 
+- 💼 Working as a Lead Engineer 
 
-- 📈 Built ...
+- 📈 Building spree/solidus extensions and software-as-a-service (SaaS) products.
 
-- ❤️ I love writing Ruby programing language and learning about different databases.
+- ❤️ I love writing Ruby and learning about different databases.
 
 - 💬 Ask me about anything [here](https://github.com/rahulsingh321/rahulsingh321/issues)
 
@@ -40,9 +40,8 @@ I'm a self-taught passionate full stack developer, having more than 8 year of ex
 
 #### Top Repositories
 
-
-<a href="#">
-  <img align="center" src="#" />
+<a href="https://github.com/rahulsingh321/thinkific">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsingh321&repo=thinkific&theme=buefy" />
 </a>
 <a href="#">
   <img align="center" src="#" />
