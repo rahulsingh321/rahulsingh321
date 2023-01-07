@@ -40,8 +40,8 @@ I'm a self-taught passionate software engineer, with more than 8 year of experie
 
 #### Top Repositories
 
-<a href="https://github.com/rahulsingh321/thinkific">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsingh321&repo=thinkific&theme=buefy" />
+<a href="https://github.com/rahulsingh321/spree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsingh321&repo=spree&theme=buefy" />
 </a>
 
 <a href="https://github.com/rahulsingh321/spree_events_tracker">
