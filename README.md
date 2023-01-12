@@ -35,22 +35,24 @@ I'm a self-taught passionate software engineer, with more than 8 year of experie
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<br />
+<br />
 
+**Github Stats**
 
-| <a href="https://github.com/rahulsingh321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh321&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Rahul's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh321&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/rahulsingh321/spree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsingh321&repo=spree&theme=buefy" />
-</a>
-
-<a href="https://github.com/rahulsingh321/spree_events_tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsingh321&repo=spree_events_tracker&theme=buefy" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahulsingh321)](https://git.io/streak-stats)
 
 <br />
 <br />
 
-<a href="https://twitter.com/rahulsingh">
+![icons8-stack-overflow-is-a-question-and-answer-site-for-professional-24](https://user-images.githubusercontent.com/22743359/212060262-a07cd943-e302-4c7d-a8a9-7d4a26617a69.png)
+stack**overflow**
+
+<a href="https://stackoverflow.com/users/3269462/rahul-singh">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/3269462?theme=default&website=true&location=true" alt="user:3269462's SO profile">
+</a>
+
+<!-- 
+<a href="https://twitter.com/rahulsingh" rel="nofollow">
+  <img align="right" alt="Rahul Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="height: 100%;">
+</a> -->
