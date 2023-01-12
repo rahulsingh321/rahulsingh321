@@ -43,7 +43,6 @@ I'm a self-taught passionate software engineer, with more than 8 year of experie
 [![GitHub Streak](https://streak-stats.demolab.com?user=rahulsingh321)](https://git.io/streak-stats)
 
 <br />
-<br />
 
 ![icons8-stack-overflow-is-a-question-and-answer-site-for-professional-24](https://user-images.githubusercontent.com/22743359/212060262-a07cd943-e302-4c7d-a8a9-7d4a26617a69.png)
 stack**overflow**
