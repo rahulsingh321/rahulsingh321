@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/rahulsingh321?label=Follow%20Me&style=social)](https://github.com/rahulsingh321)
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Rahul Singh</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I am Rahul Singh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></strong></samp></h2>
 <p align='center'>Lead Engineer - Ruby on Rails | Database Architect | eCommerce | Open source</p>
 
 
