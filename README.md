@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align='center'>Lead Engineer - Ruby on Rails | Database Architect | eCommerce | Open source</p>
 
 
-I'm a self-taught passionate software engineer, with more than 8 year of experience in Ruby on Rails development.
+I'm a self-taught passionate software engineer, with 10+ of experience in FullStack Web development.
 
 **About me**
 
