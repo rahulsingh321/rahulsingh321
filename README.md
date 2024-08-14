@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Rahul Singh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></strong></samp></h2>
-<p align='center'>Lead Engineer - Ruby on Rails | Database Architect | eCommerce | Open source</p>
+<p align='center'>Lead Engineer and Tech Architect | Web Development and AI Enthusiast | Open Source Contributor</p>
 
 
 I'm a self-taught passionate software engineer, with 10+ of experience in FullStack Web development.
