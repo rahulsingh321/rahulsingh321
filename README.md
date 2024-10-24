@@ -61,7 +61,7 @@ I'm a self-taught passionate software engineer, with 10+ of experience in FullSt
 stack**overflow**
 
 <a href="https://stackoverflow.com/users/3269462/rahul-singh">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/3269462?theme=default&website=true&location=true" alt="user:3269462's SO profile">
+  <img src="http://stackoverflow-readme-profile.johannchopin.fr/profile/3269462?theme=default&website=true&location=true" alt="user:3269462's SO profile">
 </a>
 
 <!-- 
