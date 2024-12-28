@@ -57,12 +57,8 @@ I'm a self-taught passionate software engineer, with 10+ of experience in FullSt
 
 <br />
 
-![icons8-stack-overflow-is-a-question-and-answer-site-for-professional-24](https://user-images.githubusercontent.com/22743359/212060262-a07cd943-e302-4c7d-a8a9-7d4a26617a69.png)
-stack**overflow**
-
-<a href="https://stackoverflow.com/users/3269462/rahul-singh">
-  <img src="https://raw.githubusercontent.com/rahulsingh321/stackoverflow-badge/master/stackoverflow-badge.svg" alt="user:3269462's SO profile">
-</a>
+![https://stackoverflow.com/users/3269462/rahul-singh](https://user-images.githubusercontent.com/22743359/212060262-a07cd943-e302-4c7d-a8a9-7d4a26617a69.png)
+[stack**overflow**](https://stackoverflow.com/users/3269462/rahul-singh)
 
 <!-- 
 <a href="https://twitter.com/rahulsingh" rel="nofollow">
