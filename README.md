@@ -1,66 +1,58 @@
-<!--
-**rahulsingh321/rahulsingh321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Rahul Singh</h1>
+<h3 align="center">Tech Founder | AI & SaaS Product Development | Scalable Web Platforms | Full-Stack Engineering | Product Strategy</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100px" alt="Working animated gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🧑‍💻 About Me
+
+I'm a self-taught software engineer with **10+ years of full-stack development experience**, specializing in building scalable SaaS platforms, eCommerce apps, and custom software solutions.
+
+- 🔭 Currently building **Spree/Solidus extensions**, and helping startups grow.
+- 🚀 Founder @ **Sobonix** – a boutique dev agency delivering modern web & AI-ready solutions.
+- 💬 Ask me about: `Ruby on Rails`, `StimulusJS`, `Hotwire`, `Spree`, `AI strategy`, `Shopify`.
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rahulsingh321) or [Stack Overflow](https://stackoverflow.com/users/3269462/rahul-singh)
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Ruby-red?logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=rahulsingh321&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3269462/rahul-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulsingh321)
+[![Website](https://img.shields.io/badge/Website-Sobonix.com-0A0A0A?logo=google-chrome&logoColor=white)](https://www.sobonix.com)
+
+---
+
+<!-- Optional: 
+Add recent blog posts or pinned repos section here.
 -->
-
-<h2 align='center'><samp><strong>Hi there 👋, I am Rahul Singh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></strong></samp></h2>
-<p align='center'>Lead Engineer and Tech Architect | Web Development and AI Enthusiast | Open Source Contributor</p>
-
-
-I'm a self-taught passionate software engineer, with 10+ of experience in FullStack Web development.
-
-**About me**
-
-- 💼 Working as a Lead Engineer 
-
-- 📈 Building spree/solidus extensions and software-as-a-service (SaaS) products.
-
-- ❤️ I love writing Ruby and learning about different databases.
-
-- 💬 Ask me about anything [here](https://github.com/rahulsingh321/rahulsingh321/issues)
-
-<code><img height="20" alt="ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" alt="ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-<code><img height="20" alt="ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="20" alt="ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" alt="ruby" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="radis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<br />
-<br />
-
-**Github Stats**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahulsingh321)](https://git.io/streak-stats)
-
-<br />
-
-![https://stackoverflow.com/users/3269462/rahul-singh](https://user-images.githubusercontent.com/22743359/212060262-a07cd943-e302-4c7d-a8a9-7d4a26617a69.png)
-[stack**overflow**](https://stackoverflow.com/users/3269462/rahul-singh)
-
-<!-- 
-<a href="https://twitter.com/rahulsingh" rel="nofollow">
-  <img align="right" alt="Rahul Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="height: 100%;">
-</a> -->
