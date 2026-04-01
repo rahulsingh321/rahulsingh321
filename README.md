@@ -9,12 +9,14 @@
 
 ### 🧑‍💻 About Me
 
-I'm a self-taught software engineer with **10+ years of full-stack development experience**, specializing in building scalable SaaS platforms, eCommerce apps, and custom software solutions.
+I'm a self-taught software engineer with **10+ years of full-stack experience**, specializing in building and maintaining **production-grade SaaS platforms, eCommerce systems, and data-driven applications**.
 
-- 🔭 Currently building **Spree/Solidus extensions**, and helping startups grow.
-- 🚀 Founder @ **Sobonix** – a boutique dev agency delivering modern web & AI-ready solutions.
-- 💬 Ask me about: `Ruby on Rails`, `StimulusJS`, `Hotwire`, `Spree`, `AI strategy`, `Shopify`.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rahulsingh321) or [Stack Overflow](https://stackoverflow.com/users/3269462/rahul-singh)
+I typically work on systems that already have **real users, complex workflows, and scaling challenges** — helping improve stability, performance, and backend architecture without disrupting existing functionality.
+
+- 🔭 Building and improving Rails-based **SaaS** platforms  
+- 🚀 Developing **Spree/Solidus extensions** and custom eCommerce flows
+- 🤖 Integrating AI features into real-world products (automation, matching, workflows) 
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rahul-singh31) or [Stack Overflow](https://stackoverflow.com/users/3269462/rahul-singh)
 
 ---
 
